@@ -15,17 +15,17 @@ cdn: # 这里可以修改站点使用的库的CDN
         css: https://unpkg.com/gitalk@latest/dist/gitalk.css
         js: https://unpkg.com/gitalk@latest/dist/gitalk.min.js
 
-beian: 赣ICP备******号 # 备案号（选填，此乃中国特色，不得不尝）
+# beian: 赣ICP备******号 # 备案号（选填，此乃中国特色，不得不尝）
 
 menu:
     回到首页:
         - /
         - icon-shouye
     文章归档: # 使用说明：https://docs.kira.com/article/archive
-        - /archive.html
+        - archive.html
         - icon-guidangrenwu
     关于本人:
-        - /about.html
+        - about.html
         - icon-web__guanyuwomen
 
 widgets:
