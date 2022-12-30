@@ -740,11 +740,13 @@ article div.my-aplayer-container div[id^=aplayer-] div.aplayer-body div.aplayer-
 .kira-sidebar .kira-social {
   padding: 12px;
   font-size: 0;
+  display: flex;
+  justify-content: space-evenly;
 }
 .kira-sidebar .kira-social a {
-  width: 36px;
-  height: 36px;
-  line-height: 36px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
   margin: 4px;
   border-radius: 100%;
   display: inline-block;
